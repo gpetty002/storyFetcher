@@ -1,0 +1,397 @@
+{
+    "responseHeader": {
+        "status": 0,
+        "QTime": 82,
+        "params": {
+            "query": "(( ( (title:Aztec^100 OR salients:Aztec^50 OR subject:Aztec^25 OR description:Aztec^15 OR collection:Aztec^10 OR language:Aztec^10 OR text:Aztec^1) OR (title:Maya^100 OR salients:Maya^50 OR subject:Maya^25 OR description:Maya^15 OR collection:Maya^10 OR language:Maya^10 OR text:Maya^1) OR (title:Inca^100 OR salients:Inca^50 OR subject:Inca^25 OR description:Inca^15 OR collection:Inca^10 OR language:Inca^10 OR text:Inca^1) ) AND !collection:(podcasts OR radio OR uspto))^2 OR ( ( (title:Aztec^100 OR salients:Aztec^50 OR subject:Aztec^25 OR description:Aztec^15 OR collection:Aztec^10 OR language:Aztec^10 OR text:Aztec^1) OR (title:Maya^100 OR salients:Maya^50 OR subject:Maya^25 OR description:Maya^15 OR collection:Maya^10 OR language:Maya^10 OR text:Maya^1) OR (title:Inca^100 OR salients:Inca^50 OR subject:Inca^25 OR description:Inca^15 OR collection:Inca^10 OR language:Inca^10 OR text:Inca^1) ) AND collection:(podcasts OR radio OR uspto))^0.5)",
+            "qin": "Aztec OR Maya OR Inca",
+            "fields": "identifier,title,creator,description,date",
+            "wt": "json",
+            "rows": "50",
+            "start": 0
+        }
+    },
+    "response": {
+        "numFound": 41404,
+        "start": 0,
+        "docs": [
+            {
+                "creator": "Baquedano, Elizabeth",
+                "date": "1993-01-01T00:00:00Z",
+                "description": [
+                    "63 pages : 29 cm",
+                    "Chronicles the history, beliefs, and everyday lives of the ancient Aztec, Inca, and Maya peoples",
+                    "Includes index",
+                    "\"A Dorling Kindersley Book\"--Title page verso"
+                ],
+                "identifier": "aztecincamaya0000baqu",
+                "title": "Aztec, Inca & Maya"
+            },
+            {
+                "creator": "Baquedano, Elizabeth",
+                "date": "2000-01-01T00:00:00Z",
+                "description": [
+                    "63 pages : 29 cm",
+                    "Chronicles the history, beliefs, and everyday lives of the ancient Aztec, Inca, and Maya peoples",
+                    "Includes index",
+                    "Aztecs, Mayas, and Incas -- People of Mesoamerica -- Incas and thwir ancestors -- Farming -- Hunting and fishing -- Mesoamerican cities -- Cities of the Andes -- Family life -- At home -- Food and drink -- Trade and tribute -- Warrior -- Religious life -- Gods and goddesses -- Life after death -- Human sacrifice -- Medicine -- Writing and counting -- Weaving and spinning -- Clothes and accessories -- Master potters -- Featherwork -- Precious metals -- Precious stones -- Masks -- Dance and music -- Sports and games -- Bestiary -- Spanish conquest"
+                ],
+                "identifier": "aztecincamaya0000baqu_t6l2",
+                "title": "Aztec, Inca & Maya"
+            },
+            {
+                "creator": "Snedden, Robert",
+                "date": "2008-01-01T00:00:00Z",
+                "description": [
+                    "46 pages : 30 cm",
+                    "We rely on technology so much in the modern world to make our lives easier and better and enbale us to work faster. Many of our technologies are rooted in the past, however, and this book looks at technological advances of the Aztec, Inca and Maya civilizations set against the way the people lived then",
+                    "\"An Appleseed Editions book.\"",
+                    "Includes bibliographical references and index"
+                ],
+                "identifier": "aztecincamaya0000sned",
+                "title": "Aztec, Inca and Maya"
+            },
+            {
+                "creator": "Elizabeth Baquedano",
+                "date": "2012-01-01T00:00:00Z",
+                "identifier": "aztecincamaya0000eliz",
+                "title": "Aztec, Inca & Maya"
+            },
+            {
+                "creator": "DK",
+                "date": "2000-01-01T00:00:00Z",
+                "description": "AZTEC",
+                "identifier": "370630819EyewitnessAztecIncaAndMaya",
+                "title": "370630819 Eyewitness Aztec Inca And Maya"
+            },
+            {
+                "creator": "Snedden, Robert",
+                "date": "2009-01-01T00:00:00Z",
+                "description": [
+                    "46 p. : 30 cm",
+                    "\"Covers the inventions and technology of the Aztecs, Incas, and Maya and how their ideas influenced technology today\"--Provided by publisher",
+                    "Includes bibliographical references (p. 45) and index"
+                ],
+                "identifier": "aztecincamaya0000sned_c0x4",
+                "title": "Aztec, Inca and Maya"
+            },
+            {
+                "description": "aztec-inca-project dumped with WikiTeam tools.",
+                "identifier": "wiki-aztec-inca-project.wikispaces.com",
+                "title": "Wiki - aztec-inca-project"
+            },
+            {
+                "description": "Maya to Aztec Ancient Mesoamerica Revealed",
+                "identifier": "MayaToAztecAncientMesoamericaRevealed",
+                "title": "Maya to Aztec Ancient Mesoamerica Revealed"
+            },
+            {
+                "description": "King Solomon's Temple Investigation Marathon - Legend - https://solomonstempleinvestigation.blogspot.com",
+                "identifier": "solomons-temple-316",
+                "title": "The Maya, Inca & Aztec - Solomon's Temple Investigation Marathon 316"
+            },
+            {
+                "creator": "Bezanilla, Clara",
+                "date": "2006-01-01T00:00:00Z",
+                "description": "48 pages : 20 cm",
+                "identifier": "aztecmayagodsgod0000beza",
+                "title": "Aztec & Maya gods & goddesses"
+            },
+            {
+                "creator": "Guillaume Bresso",
+                "date": "2010-01-01T00:00:00Z",
+                "description": "Guillaume J.A. Bresso* is a french anthropologist, art historian, and copist. His research interests include the early cultures of Mesoamerica. Ancient Maya and Aztec cosmogony A comparative study Vol 1/3 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "identifier": "3226561364402d754765BEvDfddd",
+                "title": "Ancient Maya and Aztec cosmogony"
+            },
+            {
+                "creator": "Karl A. Taube",
+                "date": "2003-01-01T00:00:00Z",
+                "identifier": "aztecmayamyths00taub",
+                "title": "Aztec and Maya myths"
+            },
+            {
+                "creator": "Robert Snedden",
+                "date": "2009-01-01T00:00:00Z",
+                "identifier": "aztecincamayatec0000robe",
+                "title": "Aztec, Inca, and Maya (Technology in Times Past)"
+            },
+            {
+                "creator": "inCA",
+                "description": "Footage captured by the inCA group for the MacArthur 100&Change grant project. Created by James Kennard, inCA Films.",
+                "identifier": "incarawfootage",
+                "title": "inCA raw footage"
+            },
+            {
+                "date": "1995-01-01T00:00:00Z",
+                "description": [
+                    "144 pages : 31 cm",
+                    "Draws on the myths and legends of the great civilizations of the Aztec, Mayan and Inca empires, as well as those of the Amazon tribes. Sheds light on contemporary life and illuminates the spiritual beliefs and main preoccupations of these people"
+                ],
+                "identifier": "illustratedguide0000unse_y6h1",
+                "title": "The illustrated guide to Latin American mythology : tales from the Aztec, Maya, Inca, and Amazon peoples"
+            },
+            {
+                "date": "2009-01-01T00:00:00Z",
+                "description": [
+                    "64 p. : 27 cm",
+                    "Examines the leading Indian civilizations of Latin America and native North Americans, discussing their history, culture, food and shelter, government and trade, and geographical information",
+                    "Includes bibliographical references (p. 63) and index",
+                    "Timeline -- Ancient America -- First Americans -- North America after the Ice Age -- The Arctic -- The burial mound builders -- Temple mound builders -- Mound sites -- The northern Iroquoians -- The Great Plains -- The far West -- Southwest sites -- Chaco Canyon -- Northwest coast -- Mesoamerica -- The Olmec civilization -- Mesoamerican sites -- Teotihuaca\u0301n -- Maya civilization -- Palenque -- The Toltecs -- Chiche\u0301n Itza\u0301 -- The Aztec empire -- The Aztec capital -- The central Andes -- Central Andean sites -- The Inca -- Inca sites"
+                ],
+                "identifier": "ancientaztecmaya0000unse",
+                "title": "Ancient Aztec and Maya"
+            },
+            {
+                "creator": "Maya maya",
+                "description": "Maya Maya",
+                "identifier": "mayamaya_201912",
+                "title": "Maya Maya"
+            },
+            {
+                "creator": "Migel Anguiano (angel85lx)",
+                "date": "2018-10-15T00:00:00Z",
+                "description": "This is a remix with a few added features. First is the added loop to be able to put a string and hang on neck. Second is I added a tube for the mouth to blow air in. I find it easier as before depending on the angle i would give me more of a whistle pitch. Used the same setting to print 25 infill support only on touching plate.",
+                "identifier": "thingiverse-3157119",
+                "title": "maya / aztec death whistle (3157119)"
+            },
+            {
+                "creator": "Von Hagen, Victor Wolfgang",
+                "date": "1944-01-01T00:00:00Z",
+                "description": "Breve estudio sobre los encargados de elaborar y hacer los manuscritos entre los Mayas y Aztecas.",
+                "identifier": "aztec-and-maya-papers",
+                "title": "Aztec and Maya papers"
+            },
+            {
+                "creator": "Taube, Karl A",
+                "date": "1993-01-01T00:00:00Z",
+                "description": [
+                    "80 pages : 24 cm",
+                    "Includes bibliographical references (pages 78-79) and index",
+                    "Introduction -- Major sources and the history of research -- Aztec mythology -- Maya mythology -- Mesoamerican mythology"
+                ],
+                "identifier": "aztecmayamyths0000taub",
+                "title": "Aztec and Maya myths"
+            },
+            {
+                "creator": "Keller, Mary Jo",
+                "date": "2002-01-01T00:00:00Z",
+                "description": [
+                    "48 pages : 28 cm",
+                    "Subtitle from cover",
+                    "\"EP 150.\""
+                ],
+                "identifier": "incaaztecmayaact0000kell",
+                "title": "Inca, Aztec, Maya activity book : [art, crafts, cooking, & historical aids]"
+            },
+            {
+                "creator": "Von Hagen, Victor Wolfgang, 1908-1985",
+                "date": "1961-01-01T00:00:00Z",
+                "description": [
+                    "617 p. 25 cm",
+                    "Includes bibliography"
+                ],
+                "identifier": "ancientsunkingdo0000vonh",
+                "title": "The ancient sun kingdoms of the Americas: Aztec, Maya, Inca"
+            },
+            {
+                "creator": "victor wolfgang von hagen",
+                "date": "1962-01-01T00:00:00Z",
+                "identifier": "ancientsunkingdo0000vict_b6y0",
+                "title": "the ancient sun kingdoms of the america's aztec maya inca"
+            },
+            {
+                "creator": "Wood, Marion, 1945-",
+                "date": "2007-01-01T00:00:00Z",
+                "description": [
+                    "96 pages : 31 cm",
+                    "Examines the native peoples of the ancient civilizations of North, Central, and South America",
+                    "Includes bibliographical references (page 92) and index",
+                    "Introduction -- Timelines -- Overview of America: Land and people -- First Americans -- Exploration and conquest -- History of North America: North America: Land and climate -- North America after the ice -- Artic -- Inuit life -- Burial mound builders -- Temple mound builders -- Mound sites -- Northern Iroquoians -- Great plains -- Life on the plains -- Far west -- Southwest -- Mimbres pottery -- Southwest site 1 -- Southwest sites 2 -- Hopi ritual drama -- Northwest coast -- History of Latin America: Latin America: Land and climate -- Mesoamerica after the ice age -- Olmec civilization -- Mesoamerica sites 1 -- Mesoamerica sites 2 -- Maya civilization -- Maya civilization-Sites -- Toltecs -- Toltecs-Sites -- Aztec empire -- Aztec capital -- Antilles and Columbia -- Central Andes -- Nazca: Lines in the desert -- Central Andean sites -- Inca -- Inca empire-Sites -- Inca travel -- Andean mummies and textiles -- Latin America today -- Glossary -- Further reading/Web sites -- Gazetteer -- Index"
+                ],
+                "identifier": "ancientmayaaztec0000wood",
+                "title": "Ancient Maya and Aztec civilizations"
+            },
+            {
+                "creator": "Fat Aztec",
+                "identifier": "FatAztec",
+                "title": "Fat Aztec"
+            },
+            {
+                "creator": "Robert [Murrell] Stevenson",
+                "date": "1968-01-01T00:00:00Z",
+                "identifier": "musicinaztecinca00robe",
+                "title": "Music in Aztec & Inca territory."
+            },
+            {
+                "creator": "Inca Per\u00fa Travel",
+                "date": "2022-04-04T00:00:00Z",
+                "description": "Sobre Inca Per\u00fa Travel, agencia de turismo peruana m\u00e1s informaci\u00f3n:\u00a0https://incaperutravel.com/",
+                "identifier": "inca-peru-travel-machupicchu",
+                "title": "machupicchu-camino-inca-peru-travel"
+            },
+            {
+                "creator": "Belmonte J. A., Kragh H., Pankenier D. W. et al.",
+                "date": "2015-01-01T00:00:00Z",
+                "description": "Belmonte J. A., Kragh H., Pankenier D. W. Et Al. Ancient Astronomy India, Egypt, China, Maya, Inca, Aztec, Greece, Rome, Genesis, Hebrews, Christians, The Neolithic And Paleolithic",
+                "identifier": "belmonte-j.-a.-kragh-h.-pankenier-d.-w.-et-al.-ancient-astronomy-india-egypt-chi",
+                "title": "Ancient Astronomy India, Egypt, China, Maya, Inca, Aztec, Greece, Rome, Genesis, Hebrews, Christians, The Neolithic and Paleolithic"
+            },
+            {
+                "creator": "robert stevenson",
+                "date": "1968-01-01T00:00:00Z",
+                "identifier": "musicinaztecinca0000robe",
+                "title": "music in aztec & inca territory"
+            },
+            {
+                "creator": "Conrad, Geoffrey W",
+                "date": "1984-01-01T00:00:00Z",
+                "description": [
+                    "xii, 266 pages : 24 cm",
+                    "Includes bibliographical references (pages 231-261) and index",
+                    "The Aztec imperial expansion -- The Inca imperial expansion -- Precolumbian imperialism : theories and evidence -- Ideology and cultural evolution"
+                ],
+                "identifier": "religionempiredy0000conr",
+                "title": "Religion and empire : the dynamics of Aztec and Inca expansionism"
+            },
+            {
+                "creator": "Maya",
+                "description": "Maya",
+                "identifier": "maya_20230510_20230510",
+                "title": "Maya"
+            },
+            {
+                "creator": "Maya",
+                "description": "Maya",
+                "identifier": "maya_20230401",
+                "title": "Maya"
+            },
+            {
+                "creator": "Maya",
+                "description": "Maya",
+                "identifier": "maya_20230421",
+                "title": "Maya"
+            },
+            {
+                "creator": "Cleveland Museum of Art Department of Education and Interpretation",
+                "date": "2000-01-01T00:00:00Z",
+                "description": "Through artifacts in the CMA's collection and these teacher materials, students will be introduced to aspects of the daily life and rituals of Mesoamerican cultures. Students will learn the meaning of Pre-Columbian, and discover where and how Pre-Columbian art was made. Students will learn how to decipher an ancient Mayan glyph during an in-lesson activity.",
+                "identifier": "lessonplan054",
+                "title": "Aztec, Maya and more!"
+            },
+            {
+                "creator": "Sobachatina (sobachatina)",
+                "date": "2021-09-15T00:00:00Z",
+                "description": "The design this is based on creates an amazing sound but it is hard to print. The top of the spheres can misprint- especially when scaling it larger. This design is simply cutting that design in half so it can be printed with supports and glued back together. I have found that printing it this way produces the best sound.",
+                "identifier": "thingiverse-4965688",
+                "title": "Maya / Aztec Death Whistle sliced (4965688)"
+            },
+            {
+                "creator": "maya_20230409",
+                "description": "maya_20230409",
+                "identifier": "maya_20230409",
+                "title": "Maya"
+            },
+            {
+                "creator": "warvox tattoos",
+                "description": "warvox aztec mayan inca tattoo designs ready for instant download",
+                "identifier": "aztec-tattoo-designs-warvox",
+                "title": "AZTEC TATTOO DESIGNS Warvox"
+            },
+            {
+                "creator": "maya_20230320_202303",
+                "description": "maya_20230320_202303",
+                "identifier": "maya_20230320_202303",
+                "title": "Maya"
+            },
+            {
+                "creator": "maya_20230420_202304",
+                "description": "maya_20230420_202304",
+                "identifier": "maya_20230420_202304",
+                "title": "Maya"
+            },
+            {
+                "creator": "Aztec New Media",
+                "date": "1994-01-01T00:00:00Z",
+                "description": "Aztec Shareware Collection is a 7-disc collection of shareware games published in 1994 by Aztec New Media.",
+                "identifier": "aztecshareware",
+                "title": "Aztec Shareware Collection"
+            },
+            {
+                "creator": "Von Hagen, Victor Wolfgang, 1908-1985",
+                "date": "1944-01-01T00:00:00Z",
+                "description": [
+                    "[10], 120, [1] pages, 39 plates : 26 cm",
+                    "Includes bibliographical references (pages 111-115)"
+                ],
+                "identifier": "aztecmayapaperma0000vonh",
+                "title": "The Aztec and Maya papermakers"
+            },
+            {
+                "creator": "None",
+                "date": "2001-01-01T00:00:00Z",
+                "description": [
+                    "256 pages : 30 cm",
+                    "Previously published as four separate volumes, Step into the Aztec and Maya worlds, Step into the Inca world, North American Indians and Step into the Arctic world",
+                    "Includes index"
+                ],
+                "identifier": "encyclopediaofan0000unse_h0m5",
+                "title": "The encyclopedia of the ancient Americas : explore the wonders of the Aztec, Maya, Inca, North American Indian and Arctic peoples"
+            },
+            {
+                "creator": "Aztec, Parallax",
+                "date": "1998-01-01T00:00:00Z",
+                "description": "iPlay For Macintosh DescentII1998.Aztec Parallax.Disc1 CD",
+                "identifier": "iplay-for-macintosh-descentii1998.aztec-parallax.disc1-cd",
+                "title": "iPlay For Macintosh DescentII1998.Aztec Parallax.Disc1 CD"
+            },
+            {
+                "identifier": "aztecmayapaperma0000unse",
+                "title": "The Aztec and Maya Papermakers"
+            },
+            {
+                "creator": "Th Ing (Syzguru11)",
+                "date": "2016-07-08T00:00:00Z",
+                "description": "pyramid",
+                "identifier": "thingiverse-1664087",
+                "title": "maya aztec pyramid Ziggurat (1664087)"
+            },
+            {
+                "creator": "Von Hagen, Victor Wolfgang, 1908-1985",
+                "date": "1944-01-01T00:00:00Z",
+                "description": "Includes bibliographical references (p. 111-115) and index",
+                "identifier": "aztecmayapaperma00vonh",
+                "title": "The Aztec and Maya papermakers"
+            },
+            {
+                "creator": "Wauchope, Robert",
+                "date": "1970-01-01T00:00:00Z",
+                "identifier": "indianbackground0000wauc",
+                "title": "The Indian background of Latin American history : the Maya, Aztec, Inca, and their predecessors"
+            },
+            {
+                "creator": "Alan Aztec",
+                "date": "2022-01-17T00:00:00Z",
+                "description": "Disco tank! Enjoy the hardbass song from the Alan Aztec! Our main character as Stug III G,will conquor the Russia!. This song is for entertaiment purpose only so the credits will be to the Alan Aztec and everyone who help this man create and publish the song",
+                "identifier": "alan-aztec-disco-panzer-feat-r-5on-11c-u",
+                "title": "Disco Panzer - Alan Aztec"
+            },
+            {
+                "creator": [
+                    "George A. Collier",
+                    "Renato I. Rosaldo"
+                ],
+                "date": "1982-01-01T00:00:00Z",
+                "description": "1982",
+                "identifier": "isbn_9780121811808",
+                "title": "The Inca and Aztec States: 1400-1800"
+            },
+            {
+                "creator": "Edward Maya",
+                "description": "Edward Maya house justzik.com",
+                "identifier": "EdwardMaya",
+                "title": "Edward Maya"
+            }
+        ]
+    }
+}
